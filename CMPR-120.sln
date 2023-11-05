@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise 7- Payroll Processing Files", "Exercise 7- Payroll Processing Files\Exercise 7- Payroll Processing Files.vcxproj", "{00B1D962-7B8F-4F5B-AFA2-A7E84DDC3626}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project 6 - Student Grades - Files", "Project 6 - Student Grades - Files\Project 6 - Student Grades - Files.vcxproj", "{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{00B1D962-7B8F-4F5B-AFA2-A7E84DDC3626}.Release|x64.Build.0 = Release|x64
 		{00B1D962-7B8F-4F5B-AFA2-A7E84DDC3626}.Release|x86.ActiveCfg = Release|Win32
 		{00B1D962-7B8F-4F5B-AFA2-A7E84DDC3626}.Release|x86.Build.0 = Release|Win32
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Debug|x64.ActiveCfg = Debug|x64
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Debug|x64.Build.0 = Debug|x64
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Debug|x86.Build.0 = Debug|Win32
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Release|x64.ActiveCfg = Release|x64
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Release|x64.Build.0 = Release|x64
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Release|x86.ActiveCfg = Release|Win32
+		{9D5D5D3B-E145-4A7A-8067-B7364E5C168A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
