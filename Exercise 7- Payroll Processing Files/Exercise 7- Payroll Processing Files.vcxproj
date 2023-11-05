@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Exercise 7- Payroll Processing Files.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="payroll.file" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
